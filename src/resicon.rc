@@ -1,0 +1,2 @@
+#include "resicon.h" 
+#include <wx/msw/wx.rc>
